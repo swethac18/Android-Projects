@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RemainderApp</string>
+    <string-array name="remainderType">
+        <item>Date</item>
+        <item>Wifi</item>
+        <item>SMS</item>
+        <item>Call</item>
+        <item>Location</item>
+    </string-array>
+</resources>

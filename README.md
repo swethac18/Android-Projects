@@ -15,6 +15,7 @@ Android components   : Broadcast receiver, Intents
 ### Flappy bird https://github.com/swethac18/Android-Projects/tree/master/FlapyBirdApp
 A clone of flappy bird app
 
-Android components:
+Android library: Gdx
 
 ### Custom Twitter feed  https://github.com/swethac18/Android-Projects/tree/master/Twitter
+

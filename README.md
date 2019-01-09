@@ -14,8 +14,10 @@ Android components   : Broadcast receiver, Intents
 
 ### Flappy bird https://github.com/swethac18/Android-Projects/tree/master/FlapyBirdApp
 A clone of flappy bird app using the graphics library.
-## Android library: Gdx
-![GameOver](https://github.com/swethac18/Android-Projects/blob/master/Screenshot_1546996704.png)
+### Android library: Gdx
+<p>
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/Screenshot_1546996704.png" height="400" width="250">
+</p>
 
 ### Custom Twitter feed  https://github.com/swethac18/Android-Projects/tree/master/Twitter
 Simple app uses <b>Parse Server</b> as a backend for storage and user authentication. Allows the users to
@@ -23,13 +25,21 @@ Simple app uses <b>Parse Server</b> as a backend for storage and user authentica
 2. Post a tweet
 3. Feeds screen to display the tweets and the name of user who posted it.
 4. The most recent tweets are displayed first
+<p>
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/TwitterLoginpage.png" height="400" width="250">
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/TwitterLogin.png" height="400" width="250">
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/CreatingTweet.png" height="400" width="250">
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/TweetPosted.png" height="400" width="250">
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/TwitterMenu.png" height="400" width="250">
+    <img src="https://github.com/swethac18/Android-Projects/blob/master/TwitterFeeds.png" height="400" width="250">
+  </p>
 
-![LoginPage](https://github.com/swethac18/Android-Projects/blob/master/TwitterLoginpage.png)
-![LoginSuccess](https://github.com/swethac18/Android-Projects/blob/master/TwitterLogin.png)
-![CreateTweet](https://github.com/swethac18/Android-Projects/blob/master/CreatingTweet.png)
-![TweetPosted](https://github.com/swethac18/Android-Projects/blob/master/TweetPosted.png)
-![Menu](https://github.com/swethac18/Android-Projects/blob/master/TwitterMenu.png)
-![Feeds](https://github.com/swethac18/Android-Projects/blob/master/TwitterFeeds.png)
+  
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 # Android-Projects
 ## Student: Swetha Chandrasekar
 ## swetha.chandrasekar@sjsu.edu
-Each individual project is based on an introductory course from udemy.
+Each individual project is based on an introductory course from <b>udemy</b>.
 
 ### Reminder https://github.com/swethac18/Android-Projects/tree/master/RemainderApp
 Functionalities supported
